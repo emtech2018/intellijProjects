@@ -1,0 +1,11 @@
+
+
+###
+POST http://localhost:8080/api/emtech/student
+Content-Type: application/json
+{
+"name":"james",
+"email":"james@yahoo.com",
+"dob":"1997-05-18"
+}
+
