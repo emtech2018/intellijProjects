@@ -63,7 +63,7 @@ public class Student {
         this.id = id;
     }
 
-    public String getName() {
+    public  String getName() {
         return name;
     }
 

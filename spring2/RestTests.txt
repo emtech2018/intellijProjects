@@ -1,0 +1,24 @@
+###
+POST http://localhost:8080/api/emtech/student
+Content-Type: application/json
+
+{
+"name":"peter",
+"email":"peter.kenyataww@emtechhouse.co.ke",
+"dob":"1973-12-01"
+}
+
+
+
+
+
+###
+DELETE http://localhost:8080/api/emtech/student/1
+
+<> 2021-04-07T113028.500.json
+
+###
+PUT http://localhost:8080/api/emtech/student/1?name=&email=emuriuki@emtechhouse.co.ke
+
+<> 2021-04-07T134956.500.json
+<> 2021-04-07T134940.500.json
